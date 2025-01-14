@@ -7,6 +7,29 @@
   pointer-events: none;
 }
 
+.masonry-grid {
+  column-count: 1; /* Default for small screens */
+  column-gap: 1rem; /* Gap between columns */
+}
+
+.masonry-item {
+  break-inside: avoid; /* Prevent items from breaking across columns */
+  margin-bottom: 1rem; /* Gap between rows */
+}
+
+@media (min-width: 640px) {
+  .masonry-grid {
+    column-count: 2; /* 2 columns for medium screens */
+  }
+}
+
+@media (min-width: 1024px) {
+  .masonry-grid {
+    column-count: 4; /* 4 columns for large screens */
+  }
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
