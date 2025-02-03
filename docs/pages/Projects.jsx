@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 //import spotifhai from '../assets/spotifhai.mp4';
 import chatbot from '../assets/chatbot.mp4';
+import spotifhai from '../assets/spotifhai.mp4';
 
 const Projects = () => {
   const projects = [
@@ -9,7 +10,7 @@ const Projects = () => {
       title: 'SpotifHAI',
       description:
         'SpotifHAI is an AI-powered platform that creates personalized Spotify playlists through an interactive chatbot interface. With real-time analytics and seamless playlist embedding, it enhances music discovery by tailoring recommendations to individual preferences.',
-      video: chatbot, 
+      video: spotifhai, 
       link: 'https://github.com/sutulas/Spotifhai',
     },
     {
