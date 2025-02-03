@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/lenamarfeo/static/css/main.b4b4dd26.css",
+    "main.js": "/lenamarfeo/static/js/main.82b60b83.js",
+    "static/js/787.53ea5168.chunk.js": "/lenamarfeo/static/js/787.53ea5168.chunk.js",
+    "static/media/spotifhai.mp4": "/lenamarfeo/static/media/spotifhai.b57265fd73e7431bb8df.mp4",
+    "static/media/IMG_6008.JPG": "/lenamarfeo/static/media/IMG_6008.7bfc57517e0410c7f3cf.JPG",
+    "static/media/chatbot.mp4": "/lenamarfeo/static/media/chatbot.2b73261f0f93067f3792.mp4",
+    "static/media/IMG_3920.JPEG": "/lenamarfeo/static/media/IMG_3920.efdfb944adeb71c93763.JPEG",
+    "static/media/IMG_5973.JPG": "/lenamarfeo/static/media/IMG_5973.4f0bc432114b6bae46e1.JPG",
+    "static/media/golden.JPEG": "/lenamarfeo/static/media/golden.4af4e4dd9f2ef7227beb.JPEG",
+    "static/media/IMG_0129.JPG": "/lenamarfeo/static/media/IMG_0129.874b9d92a14113c1c2ff.JPG",
+    "static/media/sunflower.JPEG": "/lenamarfeo/static/media/sunflower.e3a8d45e12b8079444d7.JPEG",
+    "static/media/theMedd.JPEG": "/lenamarfeo/static/media/theMedd.3b2bee24d0c1ee4d3025.JPEG",
+    "static/media/IMG_2929.JPG": "/lenamarfeo/static/media/IMG_2929.6d94846c8b5457b7e713.JPG",
+    "static/media/IMG_4564.JPG": "/lenamarfeo/static/media/IMG_4564.47055678ccb970d5cc40.JPG",
+    "static/media/cliffWalk.JPEG": "/lenamarfeo/static/media/cliffWalk.9e2d563c554d13f02d30.JPEG",
+    "static/media/castle.JPEG": "/lenamarfeo/static/media/castle.f2618584c85c7a8b98c4.JPEG",
+    "static/media/IMG_3220.JPG": "/lenamarfeo/static/media/IMG_3220.794efdef0e117e8df620.JPG",
+    "static/media/dublin.JPEG": "/lenamarfeo/static/media/dublin.eb537be3aebe20aaa639.JPEG",
+    "static/media/lenaCartoon.png": "/lenamarfeo/static/media/lenaCartoon.c7563faa3c2c0860bf69.png",
+    "static/media/dock.JPEG": "/lenamarfeo/static/media/dock.524bf9be2668e5296413.JPEG",
+    "static/media/birdWatch.JPEG": "/lenamarfeo/static/media/birdWatch.05bff6e3d0000232274e.JPEG",
+    "static/media/pottery.JPEG": "/lenamarfeo/static/media/pottery.331152ff3c7c46b2e821.JPEG",
+    "static/media/lookout.JPEG": "/lenamarfeo/static/media/lookout.f47e9bc0bc1ca9f7f4c4.JPEG",
+    "static/media/sunwater.JPEG": "/lenamarfeo/static/media/sunwater.a1b4512269413eeb5eb0.JPEG",
+    "static/media/parmField.JPEG": "/lenamarfeo/static/media/parmField.e6f5f53d4a18f17e7ccc.JPEG",
+    "static/media/IMG_2836.JPEG": "/lenamarfeo/static/media/IMG_2836.c09104785ddeb2a9ad61.JPEG",
+    "static/media/IMG_8027.JPEG": "/lenamarfeo/static/media/IMG_8027.d5accf8047dbb1955d8d.JPEG",
+    "static/media/IMG_8971.JPEG": "/lenamarfeo/static/media/IMG_8971.e96eb6438ee19c826021.JPEG",
+    "static/media/IMG_1643.JPEG": "/lenamarfeo/static/media/IMG_1643.b2ab406a0057eb739051.JPEG",
+    "static/media/autumn.JPEG": "/lenamarfeo/static/media/autumn.92e8c2859dae4d6856c3.JPEG",
+    "static/media/daffodil.JPEG": "/lenamarfeo/static/media/daffodil.0429f73d8534726344a2.JPEG",
+    "index.html": "/lenamarfeo/index.html",
+    "main.b4b4dd26.css.map": "/lenamarfeo/static/css/main.b4b4dd26.css.map",
+    "main.82b60b83.js.map": "/lenamarfeo/static/js/main.82b60b83.js.map",
+    "787.53ea5168.chunk.js.map": "/lenamarfeo/static/js/787.53ea5168.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4b4dd26.css",
+    "static/js/main.82b60b83.js"
+  ]
+}
