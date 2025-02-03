@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import About from './pages/About';
 import Projects from './pages/Projects';
 import Gallery from './pages/Gallery';
@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 
 const App = () => {
   return (
-    <Router basename="/lenamarfeo">
+    <Router>
       <Header />
       <div className="p-4">
         <Routes>
